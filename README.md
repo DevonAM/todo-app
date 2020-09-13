@@ -29,3 +29,7 @@ In the Server folder type:
 npm install express sequelize mysql2 body-parser cors --save
 ~~~
 
+Have a MySQL server running with a database named
+~~~bash
+todoapp
+~~~
