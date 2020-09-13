@@ -1,4 +1,5 @@
 # todo-app
+This is an app that allows a user to add/remove or mark done, items on a to-do list.
 A full stack app with CRUD functionality.
 ## Frontend Technologies
 * React.js
